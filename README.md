@@ -72,6 +72,7 @@ Atualmente também faço curso de inglês para ampliar minha comunicação e pre
 <br>
 
 ### 📞 Contato
+📍 **Localização**: São Paulo, Brasil
 - **LinkedIn**: [Gustavo Vieira](https://www.linkedin.com/in/gustavo-vieira-de-matos-7stack/)
 - **E-mail**: gustavovieiradematos0511@yahoo.com
 - **GitHub**: [gvm7stack](https://github.com/gvm7stack)
